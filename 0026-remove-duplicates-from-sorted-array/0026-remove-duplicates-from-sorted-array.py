@@ -12,4 +12,5 @@ class Solution:
             else:
                 l+=1
                 r=l+1
+        return len(nums)
                 
