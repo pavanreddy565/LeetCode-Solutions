@@ -7,8 +7,9 @@ class Solution:
         r=0
         while r<len(nums):
             if nums[r]!=0:
+                temp=nums[l]
                 nums[l]=nums[r]
-                nums[r]=0
+                nums[r]=temp
                 l+=1
             r+=1
                 
