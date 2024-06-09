@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 # String
 |  |
 | ------- |
@@ -56,3 +58,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+# Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
