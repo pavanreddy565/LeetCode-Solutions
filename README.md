@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -38,6 +39,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
