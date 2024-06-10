@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [1137-height-checker](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
@@ -36,6 +37,7 @@
 | [0075-sort-colors](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1137-height-checker](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1137-height-checker) |
 # Two Pointers
 |  |
 | ------- |
@@ -64,3 +66,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1137-height-checker) |
