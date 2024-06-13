@@ -15,6 +15,7 @@
 | [0485-max-consecutive-ones](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1137-height-checker](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [0268-missing-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
 |  |
 | ------- |
@@ -86,3 +88,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0048-rotate-image) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
