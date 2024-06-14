@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -74,6 +75,7 @@
 # Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 # Counting Sort
 |  |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 # Greedy
 |  |
 | ------- |
