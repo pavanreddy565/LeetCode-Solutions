@@ -31,10 +31,12 @@
 | ------- |
 | [0048-rotate-image](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0031-next-permutation](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 # String
 |  |
