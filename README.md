@@ -35,12 +35,14 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 # Bit Manipulation
