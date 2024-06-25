@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1137-height-checker](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1137-height-checker) |
