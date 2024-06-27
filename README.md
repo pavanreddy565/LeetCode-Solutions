@@ -118,3 +118,7 @@
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
