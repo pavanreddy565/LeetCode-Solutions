@@ -132,4 +132,8 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
