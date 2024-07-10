@@ -133,6 +133,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
@@ -144,6 +145,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
