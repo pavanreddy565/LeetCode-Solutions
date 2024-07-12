@@ -133,6 +133,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0932-monotonic-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
