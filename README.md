@@ -138,6 +138,7 @@
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0907-koko-eating-bananas](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0932-monotonic-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -173,6 +174,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
