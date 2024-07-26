@@ -155,6 +155,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
@@ -267,4 +268,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
