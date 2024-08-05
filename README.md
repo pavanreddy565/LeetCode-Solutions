@@ -166,6 +166,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [3396-valid-word](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
 | ------- |
