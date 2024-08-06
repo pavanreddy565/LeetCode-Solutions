@@ -167,6 +167,7 @@
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2502-sort-the-people](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3396-valid-word](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/3396-valid-word) |
 ## Hash Table
@@ -270,6 +271,7 @@
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
