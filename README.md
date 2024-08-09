@@ -139,6 +139,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
+| [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -182,6 +183,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
+| [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -265,6 +267,7 @@
 ## Math
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -312,4 +315,5 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
