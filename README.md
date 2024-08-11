@@ -316,4 +316,8 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
