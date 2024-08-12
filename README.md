@@ -191,6 +191,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -254,6 +255,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -274,10 +276,12 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
