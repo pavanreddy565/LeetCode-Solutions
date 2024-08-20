@@ -273,12 +273,14 @@
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2645-pass-the-pillow](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
