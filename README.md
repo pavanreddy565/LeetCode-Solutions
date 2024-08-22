@@ -258,6 +258,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
