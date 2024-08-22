@@ -16,11 +16,16 @@ class Solution {
         while(even!=null && even.next!=null){
             odd.next=odd.next.next;
             even.next=even.next.next;
-            
+            // System.out.println(odd.val+" Odd Even"+even.val);
             odd=odd.next;
-            even=even.next.next;
+            even=even.next;
             
-        }System.out.println(odd.val+" Odd Even"+even.val);
+        }
+        // if(odd.next.next!=null){
+        //      odd.next=odd.next.next;
+        //      odd=odd.next;
+        // }
+           
         odd.next=evenHead;
         return head;
     }
