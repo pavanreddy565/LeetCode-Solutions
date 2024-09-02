@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## String
@@ -166,6 +167,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -341,6 +343,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
