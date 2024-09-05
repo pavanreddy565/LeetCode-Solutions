@@ -9,6 +9,7 @@ class Solution {
         }
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Arrays.sort(nums);
         List<List<Integer>> ans= new ArrayList<>();
         List<Integer> out = new ArrayList<>();
         combo(0,nums,out,ans);
