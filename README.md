@@ -161,6 +161,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## String
@@ -171,6 +172,7 @@
 | [0014-longest-common-prefix](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -349,6 +351,7 @@
 | [0039-combination-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
