@@ -135,6 +135,7 @@
 | [0051-n-queens](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -176,6 +177,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -348,6 +350,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 ## Database
 |  |
@@ -363,6 +366,7 @@
 | [0040-combination-sum-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
