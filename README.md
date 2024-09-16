@@ -185,6 +185,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -200,6 +201,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -346,6 +348,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Matrix
 |  |
 | ------- |
@@ -373,6 +376,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0078-subsets) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Tree
 |  |
