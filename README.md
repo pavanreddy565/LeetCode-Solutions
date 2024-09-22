@@ -181,6 +181,7 @@
 | [0131-palindrome-partitioning](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
@@ -298,6 +299,7 @@
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -375,6 +377,7 @@
 | [0079-word-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
