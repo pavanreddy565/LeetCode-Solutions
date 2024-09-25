@@ -299,6 +299,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1642-water-bottles) |
@@ -309,6 +310,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Tree
