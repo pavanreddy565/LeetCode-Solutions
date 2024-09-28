@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0039-combination-sum) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
