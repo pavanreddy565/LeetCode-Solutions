@@ -139,6 +139,7 @@
 | [0079-word-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -305,6 +306,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -408,10 +410,15 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
