@@ -144,6 +144,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0792-binary-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -332,6 +333,7 @@
 | [0155-min-stack](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -424,4 +426,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
