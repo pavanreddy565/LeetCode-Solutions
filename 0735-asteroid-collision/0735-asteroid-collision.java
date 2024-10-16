@@ -14,7 +14,12 @@ class Solution {
                 if(Math.abs(re)==Math.abs(asteroids[i]))break;
             }
             //System.out.println(re);
+            
             if(!st.empty()&&(st.peek()<=asteroids[i]||st.peek()*asteroids[i]>0)&&Math.abs(re)!=Math.abs(asteroids[i])){
+                
+                st.push(asteroids[i]);
+            }
+            if(st.empty()&&Math.abs(re)!=Math.abs(asteroids[i])){
                 st.push(asteroids[i]);
             }
             
