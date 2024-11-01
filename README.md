@@ -353,6 +353,7 @@
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -445,6 +446,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Enumeration
 |  |
 | ------- |
@@ -456,6 +458,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Sliding Window
 |  |
@@ -465,4 +468,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
