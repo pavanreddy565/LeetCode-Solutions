@@ -211,6 +211,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -305,6 +306,7 @@
 | [0002-add-two-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -444,6 +446,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0937-online-stock-span) |
@@ -472,4 +475,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
