@@ -216,6 +216,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1256-rank-transform-of-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -308,6 +309,7 @@
 | [0061-rotate-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -449,6 +451,7 @@
 | [0146-lru-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Enumeration
 |  |
@@ -479,4 +482,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
