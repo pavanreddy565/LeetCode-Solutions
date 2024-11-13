@@ -135,6 +135,7 @@
 | [0040-combination-sum-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -177,6 +178,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -390,6 +392,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
