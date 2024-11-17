@@ -136,6 +136,7 @@
 | [0042-trapping-rain-water](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0079-word-search) |
