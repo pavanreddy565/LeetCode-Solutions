@@ -174,6 +174,7 @@
 | [1803-average-waiting-time](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -480,6 +482,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
 | ------- |
