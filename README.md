@@ -214,6 +214,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3396-valid-word](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
@@ -233,6 +234,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Two Pointers
 |  |
 | ------- |
@@ -483,6 +485,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Monotonic Queue
 |  |
 | ------- |
