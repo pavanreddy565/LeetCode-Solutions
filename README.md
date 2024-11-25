@@ -167,6 +167,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -349,6 +350,7 @@
 | [0231-power-of-two](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
