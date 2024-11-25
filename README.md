@@ -164,6 +164,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -230,6 +231,7 @@
 | [0460-lfu-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -421,6 +423,7 @@
 | [0079-word-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Database
 |  |
 | ------- |
