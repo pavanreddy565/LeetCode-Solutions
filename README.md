@@ -175,6 +175,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2089-maximum-matrix-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2502-sort-the-people](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
@@ -414,6 +415,7 @@
 | [0455-assign-cookies](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [2089-maximum-matrix-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -427,6 +429,7 @@
 | [0085-maximal-rectangle](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2089-maximum-matrix-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 ## Database
 |  |
 | ------- |
