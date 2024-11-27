@@ -211,6 +211,7 @@
 | [0242-valid-anagram](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0742-to-lower-case) |
@@ -340,6 +341,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
@@ -353,6 +355,7 @@
 | [0204-count-primes](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0412-fizz-buzz](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1642-water-bottles) |
