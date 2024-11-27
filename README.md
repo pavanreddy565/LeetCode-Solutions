@@ -217,6 +217,7 @@
 | [0742-to-lower-case](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -323,6 +324,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
@@ -422,6 +424,7 @@
 | [0455-assign-cookies](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2089-maximum-matrix-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 ## Prefix Sum
 |  |
