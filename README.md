@@ -359,6 +359,7 @@
 | [0282-expression-add-operators](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
