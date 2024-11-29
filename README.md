@@ -332,6 +332,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
