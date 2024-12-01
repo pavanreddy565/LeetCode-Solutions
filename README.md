@@ -155,6 +155,7 @@
 | [0493-reverse-pairs](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -235,6 +236,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0460-lfu-cache) |
+| [0621-task-scheduler](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -284,6 +286,7 @@
 | [0435-non-overlapping-intervals](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -325,6 +328,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
@@ -401,6 +405,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -426,6 +431,7 @@
 | [0410-split-array-largest-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
