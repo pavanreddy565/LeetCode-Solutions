@@ -161,6 +161,7 @@
 | [0792-binary-search](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0876-hand-of-straights](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -239,6 +240,7 @@
 | [0621-task-scheduler](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0822-unique-morse-code-words](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0876-hand-of-straights](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -287,6 +289,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -434,6 +437,7 @@
 | [0621-task-scheduler](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0876-hand-of-straights](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2089-maximum-matrix-sum](https://github.com/pavanreddy565/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 ## Prefix Sum
